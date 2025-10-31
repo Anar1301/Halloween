@@ -17,7 +17,7 @@ export async function POST(req: NextRequest) {
       contents: `
 
 Rules:
-- Answer in Mongolian
+- Answer in Russian
 - sarcastic answers
 -little bit scary
 - Keep it under 25 words
